@@ -1,0 +1,65 @@
+{
+  "state": 1,
+  "publication": [
+    {
+      "year": "2022",
+      "papers": [
+        {
+          "title": "Few-shot Task-agnostic Neural Architecture Search for Distilling Large Language Models",
+          "people": "Dongkuan Xu, Subhabrata Mukherjee, Xiaodong Liu, Debadeepta Dey, Wenhui Wang, Xiang Zhang, Ahmed Hassan Awadallah, Jianfeng Gao",
+          "publicator": "arXiv 2022",
+          "pic": "http://www.ay1.cc/img?w=100&h=100",
+          "pdf": "https://arxiv.org/pdf/2201.12507.pdf",
+          "code": "https://github.com/Picsart-AI-Research/LIVE-Layerwise-Image-Vectorization",
+          "slide": "https://arxiv.org/pdf/2201.12507.pdf"
+        },
+        {
+          "title": "Detecting Harmful Online Conversational Content towards LGBTQIA+ Individuals",
+          "people": "Dongkuan Xu, Subhabrata Mukherjee, Xiaodong Liu, Debadeepta Dey, Wenhui Wang, Xiang Zhang, Ahmed Hassan Awadallah, Jianfeng Gao",
+          "publicator": "In Proceedings of 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2022",
+          "pic": "http://www.ay1.cc/img?w=100&h=100",
+          "pdf": "https://arxiv.org/pdf/2201.12507.pdf",
+          "slide": "https://arxiv.org/pdf/2201.12507.pdf"
+        },
+        {
+          "title": "Feature Overcorrelation in Deep Graph Neural Networks: A New Perspective",
+          "people": "Dongkuan Xu, Subhabrata Mukherjee, Xiaodong Liu, Debadeepta Dey, Wenhui Wang, Xiang Zhang, Ahmed Hassan Awadallah, Jianfeng Gao",
+          "publicator": "arXiv 2022",
+          "pic": "http://www.ay1.cc/img?w=100&h=100",
+          "pdf": "https://arxiv.org/pdf/2201.12507.pdf",
+          "code": "https://github.com/Picsart-AI-Research/LIVE-Layerwise-Image-Vectorization"
+        }
+      ]
+    },
+    {
+      "year": "2021",
+      "papers": [
+        {
+          "title": "Few-shot Task-agnostic Neural Architecture Search for Distilling Large Language Models",
+          "people": "Dongkuan Xu, Subhabrata Mukherjee, Xiaodong Liu, Debadeepta Dey, Wenhui Wang, Xiang Zhang, Ahmed Hassan Awadallah, Jianfeng Gao",
+          "publicator": "arXiv 2022",
+          "pic": "http://www.ay1.cc/img?w=100&h=100",
+          "pdf": "https://arxiv.org/pdf/2201.12507.pdf",
+          "code": "https://github.com/Picsart-AI-Research/LIVE-Layerwise-Image-Vectorization",
+          "slide": "https://arxiv.org/pdf/2201.12507.pdf"
+        },
+        {
+          "title": "Detecting Harmful Online Conversational Content towards LGBTQIA+ Individuals",
+          "people": "Dongkuan Xu, Subhabrata Mukherjee, Xiaodong Liu, Debadeepta Dey, Wenhui Wang, Xiang Zhang, Ahmed Hassan Awadallah, Jianfeng Gao",
+          "publicator": "In Proceedings of 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2022",
+          "pic": "http://www.ay1.cc/img?w=100&h=100",
+          "pdf": "https://arxiv.org/pdf/2201.12507.pdf",
+          "slide": "https://arxiv.org/pdf/2201.12507.pdf"
+        },
+        {
+          "title": "Feature Overcorrelation in Deep Graph Neural Networks: A New Perspective",
+          "people": "Dongkuan Xu, Subhabrata Mukherjee, Xiaodong Liu, Debadeepta Dey, Wenhui Wang, Xiang Zhang, Ahmed Hassan Awadallah, Jianfeng Gao",
+          "publicator": "arXiv 2022",
+          "pic": "http://www.ay1.cc/img?w=100&h=100",
+          "pdf": "https://arxiv.org/pdf/2201.12507.pdf",
+          "code": "https://github.com/Picsart-AI-Research/LIVE-Layerwise-Image-Vectorization"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "state": 1,
+  "data": [
+    {
+      "classification": "Column Editor",
+      "course": [
+        "ACM SIGAI Newsletter"
+      ]
+    } ,  {
+      "classification": "Academic Committee Member",
+      "course": [
+        "Machine Learning & Natural Language Processing Community (MLNLP)"
+      ]
+    },
+    {
+      "classification": "Senior Program Committee",
+      "course": [
+        "International Joint Conferences on Artificial Intelligence (IJCAI) 2021 "
+      ]
+    },
+    {
+      "classification": "Program Committee",
+      "course": [
+        "Neural Information Processing Systems (NeurIPS) 2020, 2021, 2022",
+        "International Conference on Learning Representations (ICLR) 2021, 2022",
+        "International Conference on Machine Learning (ICML) 2021, 2022",
+        "AAAI Conference on Artificial Intelligence (AAAI) 2020, 2021, 2022",
+        "SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2020, 2021, 2022",
+        "Association for Computational Linguistics (ACL) Rolling Review 2022",
+        "North American Chapter of the Association for Computational Linguistics (NAACL) 2021",
+        "Conference on Empirical Methods in Natural Language Processing (EMNLP) 2020, 2021",
+        "International Conference on Computational Linguistics (COLING) 2022",
+        "Learning on Graphs Conference (LoG) 2022",
+        "International Joint Conferences on Artificial Intelligence (IJCAI) 2020, 2022",
+        "ACM International Conference on Web Search and Data Mining (WSDM) 2022",
+        "SIAM International Conference on Data Mining (SDM) 2022",
+        "European Chapter of the Association for Computational Linguistics (EACL) 2021",
+        "Conference on Information and Knowledge Management (CIKM) 2020, 2021, 2022",
+        "Asia-Pacific Chapter of the Association for Computational Linguistics & International Joint Conference on Natural Language Processing (AACL-IJCNLP) 2020",
+        "International Joint Conference on Neural Networks (IJCNN) 2018, 2019, 2020, 2021"
+      ]
+    },
+    {
+      "classification": "Journal Reviewer",
+      "course": [
+        "IEEE Transactions on Neural Networks and Learning Systems (TNNLS) ",
+        "IEEE Transactions on Knowledge and Data Engineering (TKDE) ",
+        "IEEE Transactions on Cybernetics ",
+        "Information Fusion ",
+        "ACM Transactions on Knowledge Discovery from Data (TKDD) ",
+        "Pattern Recognition ",
+        "Neural Networks ",
+        "ACM Transactions on Asian and Low-Resource Language Information Processing ",
+        "IEEE Access ",
+        "Neural Computation ",
+        "Complexity ",
+        "Soft Computing ",
+        "Journal of Sports Engineering and Technology ",
+        "Complex & Intelligent Systems ",
+        "Multimedia Tools and Applications ",
+        "Big Data"
+      ]
+    },
+    {
+      "classification": "External Conference Reviewer",
+      "course": [
+        "AAAI’18-20, ACM CIKM’18-19, Big Data’18, ICDM’18-19, IJCNN’16-17, ITQM’16-17, KDD’18-21, SDM’18-22, TheWebConf (WWW)’20-22, WSDM’20-21 "
+      ]
+    },
+    {
+      "classification": "Conference Volunteer ",
+      "course": [
+        "The Annual Conference of NAACL-HLT, 2021 ",
+        "Backuping SDM Session Chairs, 2021 ",
+        "The 35th AAAI Conference on Artificial Intelligence, 2021 ",
+        "The 26th SIGKDD Conference on Knowledge Discovery and Data Mining, 2020"
+      ]
+    }
+  ]
+}

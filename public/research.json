@@ -1,0 +1,53 @@
+{
+  "research": [
+    {
+      "name": "A Kinship Recognition Benchmark",
+      "info": "Families In the Wild (FIW) is the largest and most comprehensive image database for automatic kinship recognition. Our motivation is to provide the resource needed for kinship recognition technologies to transition from research-to-reality. with over 11,932 family photos of 1,000 families FIW closely reflects the true data distribution of families worldwide (see Database for more information). There are many directions for FIW to take throughout the machine vision and related research communities (e.g., in relation to benchmarks (see Challenges and Results for details), new benchmarks, generative models, multi-modal learning, to name a few). In terms of its practical value, many could benefit from FIW as well, such as the consumer (e.g. automatic photo library management), scholar (e.g. historic lineage & genealogical studies), analyzer (e.g. social-media-based analysis), investigator (e.g. missing persons and human traffickers).",
+      "pic": ["http://www.ay1.cc/img?w=240&h=240","http://www.ay1.cc/img?w=240&h=240","http://www.ay1.cc/img?w=240&h=240"],
+            "website": [
+              [
+                "ACM2022",
+                "Parameter-Efficient Mixture-of-Experts Architecture for Pre-trained Language Models",
+                "https://vnpeng.net/"
+              ],
+              [
+                "CIKM2022",
+                "Mixture-of-Experts Architecture for Pre-trained Language Models",
+                "https://vnpeng.net/"
+              ]
+            ],
+      "projects": [
+        {
+          "name": "A Face Recognition Benchmark",
+          "info": "Intended to address problems of bias in facial recognition, we built BFW as a labeled data resource made available for evaluating recognitiion systems on a corpus of facial imagery made-up of EQUAL face count for all subjects, which are EQUAL across demographics, and, thus, face data balanced in faces per subject, subjeccts per ethniciity, ethnicity (or faces) per gender.",
+          "pic": "http://www.ay1.cc/img?w=200&h=200"
+        },{
+          "name": "BFW as a labeled data",
+          "info": "Intended to address problems of bias in facial recognition, we built BFW as a labeled data resource made available for evaluating recognitiion systems on a corpus of facial imagery made-up of EQUAL face count for all subjects, which are EQUAL across demographics, and, thus, face data balanced in faces per subject, subjeccts per ethniciity, ethnicity (or faces) per gender.",
+          "pic": "http://www.ay1.cc/img?w=200&h=200"
+        }
+      ]
+    },
+    {
+      "name": "A Kinship Recognition Benchmark2",
+      "info": "Families In the Wild (FIW) is the largest and most comprehensive image database for automatic kinship recognition. Our motivation is to provide the resource needed for kinship recognition technologies to transition from research-to-reality. with over 11,932 family photos of 1,000 families FIW closely reflects the true data distribution of families worldwide (see Database for more information). There are many directions for FIW to take throughout the machine vision and related research communities (e.g., in relation to benchmarks (see Challenges and Results for details), new benchmarks, generative models, multi-modal learning, to name a few). In terms of its practical value, many could benefit from FIW as well, such as the consumer (e.g. automatic photo library management), scholar (e.g. historic lineage & genealogical studies), analyzer (e.g. social-media-based analysis), investigator (e.g. missing persons and human traffickers).",
+      "pic": [
+        "http://www.ay1.cc/img?w=240&h=240",
+        "http://www.ay1.cc/img?w=240&h=240",
+        "http://www.ay1.cc/img?w=240&h=240"
+      ],
+      "website":[["ACM2022","Parameter-Efficient Mixture-of-Experts Architecture for Pre-trained Language Models","https://vnpeng.net/"],[
+          "CIKM2022",
+          "Mixture-of-Experts Architecture for Pre-trained Language Models",
+          "https://vnpeng.net/"
+        ]],
+      "projects": [
+        {
+          "name": "A Face Recognition Benchmark3",
+          "info": "Intended to address problems of bias in facial recognition, we built BFW as a labeled data resource made available for evaluating recognitiion systems on a corpus of facial imagery made-up of EQUAL face count for all subjects, which are EQUAL across demographics, and, thus, face data balanced in faces per subject, subjeccts per ethniciity, ethnicity (or faces) per gender.",
+          "pic": "http://www.ay1.cc/img?w=200&h=200"
+        }
+      ]
+    }
+  ]
+}

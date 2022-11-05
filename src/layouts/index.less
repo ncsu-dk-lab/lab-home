@@ -1,0 +1,115 @@
+img {
+  max-width: 100%;
+}
+body {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  font-family: 'SF Pro SC', 'SF Pro Text', 'SF Pro Icons', 'PingFang SC',
+    'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+}
+:global {
+  .ant-card.gaugeCard {
+    background: none;
+  }
+  .gaugeCard > .ant-card-head {
+    font-size: 26px;
+    font-weight: bold;
+    border-bottom: 1px solid #40a9ff;
+  }
+  .gaugeCard > .ant-card-body {
+    padding: 15px 0;
+  }
+  .gaugeCard .ant-card-head-title {
+    color: #40a9ff;
+    font-size: 22px;
+    padding: 5px 0;
+  }
+  .vbs-content .title {
+    text-align: center;
+    font-size: 30px;
+    color: #1d1d22;
+    line-height: 38px;
+  }
+  .vbs-content p {
+    text-indent: 2em;
+    font-size: 18px;
+    color: #1d1d22;
+    margin: 10px 0 0;
+    line-height: 34px;
+  }
+  .actTab .ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn {
+    color: #1d1d22;
+    font-weight: 600;
+  }
+}
+
+.layout {
+  // background: #fafafa;
+  background: #FFF;
+}
+.midbody {
+  width: 1100px;
+  margin: 0 auto;
+}
+.siteLayout {
+  min-height: 380px;
+  min-height: 86vh;
+  width: 1100px;
+  margin: 64px auto 0;
+  padding: 30px 0 30px;
+}
+.header {
+  position: fixed;
+  z-index: 2;
+  width: 100%;
+  // background: linear-gradient(120deg,#8789f5 0%,#6686ed 51%,#3881e0 75%);
+  background-color: #f5f5f5;
+  .menu {
+    flex: 1;
+    border: none;
+    background: unset;
+    font-size: 18px;
+    background: none;
+    justify-content: end;
+  }
+  li:hover {
+    // background-color: #f5f5f5;
+    cursor: pointer;
+  }
+}
+.headerLayout {
+  display: flex;
+}
+
+.logoBox {
+  display: flex;
+  align-items: center;
+  margin: 0 20px 0 0;
+  .logo {
+    display: block;
+  }
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+::-webkit-scrollbar {
+  display: none;
+}
+
+.footer {
+  text-align: center;
+  .content {
+    width: 1100px;
+    margin: auto;
+    display: flex;
+    padding: 30px 50px;
+    .contact {
+      flex: 2;
+      text-align: left;
+    }
+
+    .social {
+      flex: 1;
+      margin-top: 15px;
+    }
+  }
+}

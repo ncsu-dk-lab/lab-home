@@ -1,0 +1,39 @@
+{
+  "state": 1,
+  "data": [
+    {
+      "classification": "Column Edito1",
+      "course": [
+        "ICLR'21,22,23",
+        "ICML'21,22",
+        "NeurIPS'20,21,22",
+        "AAAI'20,21,22",
+        "KDD'20,21,22",
+        "ACL Rolling Review'22",
+        "LoG'22",
+        "IJCAI'20,22"
+      ]
+    },
+    {
+      "classification": "Column Edito2",
+      "course": [
+        "NeurIPS'20,21,22",
+        "AAAI'20,21,22",
+        "KDD'20,21,22",
+        "ACL Rolling Review'22",
+        "LoG'22",
+        "IJCAI'20,22"
+      ]
+    },
+    {
+      "classification": "Column Edito3",
+      "course": [
+        "NeurIPS'20,21,22",
+        "AAAI'20,21,22",
+        "KDD'20,21,22",
+        "ACL Rolling Review'22",
+        "LoG'22",
+        "IJCAI'20,22"
+      ]
+    }  ]
+}

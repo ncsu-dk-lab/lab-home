@@ -1,0 +1,125 @@
+{
+  "director": [
+    {
+      "name": "Dongkuan (DK) Xu",
+      "mail": "dxu27[at]ncsu[dot]edu",
+      "homepage": "http://personal.psu.edu/dux19/",
+      "major": "Efficient AI",
+      "pic": "../../assets/peoples/DongkuanXu.jpg",
+      "pos": "Assistant Professor @ NCSU CS",
+      "address": "Raleigh, NC 27695",
+      "scholarlink": "https://scholar.google.com/citations?user=2mJ7jpcAAAAJ&hl=en",
+      "twitterlink": "https://twitter.com/DongkuanXu"
+    }
+  ],
+  "phd": {
+    "2022": [
+      {
+        "name": "Jianwei Li",
+        "mail": "ljw040426[at]gmail.com",
+        "homepage": "https://jianwei.gatsbyjs.io/",
+        "major": "Computer Science",
+        "pic": "https://github.com/younglaker/ncsulab/blob/master/src/assets/peoples/JianweiLi.jpg?raw=true"
+      },
+      {
+        "name": "mike2",
+        "mail": "abc[at]wer.com",
+        "homepage": "123.com",
+        "major": "Computer Science",
+        "pic": "http://www.ay1.cc/img?w=240&h=240"
+      },
+      {
+        "name": "mike3",
+        "mail": "abc[at]wer.com",
+        "homepage": "123.com",
+        "major": "Computer Science",
+        "pic": "http://www.ay1.cc/img?w=240&h=240"
+      },
+      {
+        "name": "mike4",
+        "mail": "abc[at]wer.com",
+        "homepage": "123.com",
+        "major": "Computer Science",
+        "pic": "http://www.ay1.cc/img?w=240&h=240"
+      },
+      {
+        "name": "john",
+        "mail": "abc[at]wer.com",
+        "homepage": "123.com",
+        "major": "Computer Science",
+        "pic": "http://www.ay1.cc/img?w=240&h=240"
+      }
+    ],
+    "2021": [
+      {
+        "name": "amy",
+        "mail": "abc[at]wer.com",
+        "homepage": "123.com",
+        "major": "Computer Science",
+        "pic": "http://www.ay1.cc/img?w=240&h=240"
+      },
+      {
+        "name": "amy2",
+        "mail": "abc[at]wer.com",
+        "homepage": "123.com",
+        "major": "Computer Science",
+        "pic": "http://www.ay1.cc/img?w=240&h=240"
+      },
+      {
+        "name": "amy3",
+        "mail": "abc[at]wer.com",
+        "homepage": "123.com",
+        "major": "Computer Science",
+        "pic": "http://www.ay1.cc/img?w=240&h=240"
+      },
+      {
+        "name": "amy4",
+        "mail": "abc[at]wer.com",
+        "homepage": "123.com",
+        "major": "Computer Science",
+        "pic": "http://www.ay1.cc/img?w=240&h=240"
+      }
+    ]
+  },
+  "master": {
+    "2022": [
+      {
+        "name": "ben1",
+        "mail": "abc[at]wer.com",
+        "homepage": "123.com",
+        "major": "Computer Science",
+        "pic": "http://www.ay1.cc/img?w=240&h=240"
+      },
+      {
+        "name": "ben2",
+        "mail": "abc[at]wer.com",
+        "homepage": "123.com",
+        "major": "Computer Science",
+        "pic": "http://www.ay1.cc/img?w=240&h=240"
+      }
+    ],
+    "2021": [
+      {
+        "name": "luca1",
+        "mail": "abc[at]wer.com",
+        "homepage": "123.com",
+        "major": "Computer Science",
+        "pic": "http://www.ay1.cc/img?w=240&h=240"
+      },
+      {
+        "name": "luca2",
+        "mail": "abc[at]wer.com",
+        "homepage": "123.com",
+        "major": "Computer Science",
+        "pic": "http://www.ay1.cc/img?w=240&h=240"
+      },
+      {
+        "name": "luca3",
+        "mail": "abc[at]wer.com",
+        "homepage": "123.com",
+        "major": "Computer Science",
+        "pic": "http://www.ay1.cc/img?w=240&h=240"
+      }
+    ]
+  }
+}

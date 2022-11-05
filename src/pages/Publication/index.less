@@ -1,0 +1,17 @@
+.paper{
+  display: inline-block;
+  border-bottom:2px solid #781cb6;
+  position:relative;
+  padding:10px 0;
+  transition: 0.4s;
+  .title{font-size:24px;color:#781cb6;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;transition: all 0.4s;}
+  .arrowsIcon{
+    position:absolute;right:0px;top:14px;font-size:34px;color:#781cb6;
+    transform: translateX(-20px);opacity: 0;transition: all 0.2s;
+  }
+  p{font-size:16px;color:#333;}
+  &:hover .arrowsIcon{display: block;transform: translateX(0px);opacity: 1;}
+  &:hover .title{color:#a052d4;padding-right:70px;}
+}
+.paperList{margin-bottom:20px;}
+.pagination{margin-top:80px;}

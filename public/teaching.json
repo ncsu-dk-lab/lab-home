@@ -1,0 +1,45 @@
+{
+  "state": 1,
+  "data": [
+    {
+      "classification": "Instructor at NC State",
+      "course": [
+        {
+          "name": "CSC 791&591: Advanced Topics in Efficient Deep Learning",
+          "instructor": "Prof. Mahir Akgun",
+          "instructorLink": "https://ist.psu.edu/directory/mza149",
+          "materials": "Visual Analytics with Tableau",
+          "materialsLink": "https://www.wiley.com/en-us/Visual+Analytics+with+Tableau-p-9781119560203"
+        },
+        {
+          "name": "CSC 791&591: Advanced Topics in Efficient Deep Learning1",
+          "materials": "Visual Analytics with Tableau",
+          "materialsLink": "https://www.wiley.com/en-us/Visual+Analytics+with+Tableau-p-9781119560203"
+        },
+        {
+          "name": "CSC 791&591: Advanced Topics in Efficient Deep Learning11",
+          "instructor": "Prof. Mahir Akgun",
+          "instructorLink": "https://ist.psu.edu/directory/mza149"
+        }
+      ]
+    },
+    {
+      "classification": "Guest Lecturer",
+      "course": [
+        {
+          "name": "CSC 791&591: Advanced Topics in Efficient Deep Learning2"
+        },
+        {
+          "name": "CSC 791&591: Advanced Topics in Efficient Deep Learning22",
+          "materials": "Visual Analytics with Tableau",
+          "materialsLink": "https://www.wiley.com/en-us/Visual+Analytics+with+Tableau-p-9781119560203"
+        },
+        {
+          "name": "CSC 791&591: Advanced Topics in Efficient Deep Learning222",
+          "instructor": "Prof. Mahir Akgun",
+          "instructorLink": "https://ist.psu.edu/directory/mza149"
+        }
+      ]
+    }
+  ]
+}
